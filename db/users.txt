@@ -1,0 +1,15 @@
++-------------+----------+-----------------------------+-------------+--------------+-------------+
+| nom         | prenom   | email                       | telephone   | role         | password    |
++-------------+----------+-----------------------------+-------------+--------------+-------------+
+| admin       | admin    | admin@admin.com             | 0000000000  | super_admin  | admin       |
+| Ali         | Ahmed    | Ahmed.Ali@example.com       | 0550000001  | user         | covoiturage |
+| Saidi       | Mohamed  | Mohamed.Saidi@example.com   | 0550000002  | user         | covoiturage |
+| Zahra       | Fatima   | Fatima.Zahra@example.com    | 0550000003  | user         | covoiturage |
+| Boudiaf     | Amina    | Amina.Boudiaf@example.com   | 0550000004  | user         | covoiturage |
+| Benyahia    | Youssef  | Youssef.Benyahia@example.com| 0550000005  | user         | covoiturage |
+| El Amrani   | Sara     | Sara.ElAmrani@example.com   | 0550000006  | user         | covoiturage |
+| Mansouri    | Khaled   | Khaled.Mansouri@example.com | 0550000007  | user         | covoiturage |
+| Touati      | Salima   | Salima.Touati@example.com   | 0550000008  | user         | covoiturage |
+| Khelifi     | Rachid   | Rachid.Khelifi@example.com  | 0550000009  | user         | covoiturage |
+| Bouazghi    | Leila    | Leila.Bouazghi@example.com  | 0550000010  | user         | covoiturage |
++-------------+----------+-----------------------------+-------------+--------------+-------------+
