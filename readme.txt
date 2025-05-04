@@ -5,7 +5,7 @@ Cette application permet de gérer le covoiturage en Algérie, en facilitant la 
 Assurez-vous d’utiliser un environnement local tel que XAMPP.
 
 Placez le dossier du projet dans le répertoire htdocs de XAMPP.
-👉 Renommez le dossier en covoiturage.
+👉 Renommez le dossier en: covoiturage.
 
 🗃️ Base de Données
 Créez une base de données nommée covoiturage_dz dans phpMyAdmin.
